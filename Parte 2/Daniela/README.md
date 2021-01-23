@@ -1,6 +1,6 @@
 # **LAURA DANIELA PACHON CUAN** 
 ## **INGENERIA DE SISTEMAS**
-![alt](https://images.app.goo.gl/r4PEubMuERcCF6r49)
+![alt](https://www.afadeco.org.co/var/afdc/storage/images/media/images/logo_escingieneria/5333-1-esl-CO/Logo_EscIngieneria.jpg)
 
 
 Estoy en septimo semestre de ingeria de sistemas en la Universidad Julio Garavito tenego el plan de estudio numero 14 la universidad nos brinda muchas ayudas para que nuestras dudas queden completamente solucionadas contamos con monitores, y una bibloteca para acceder a a diferentes libros para llenar y adquirir mas conocimiento y ser unos excelentes profesionales.
