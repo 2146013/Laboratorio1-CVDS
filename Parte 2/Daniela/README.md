@@ -1,6 +1,8 @@
-# **LAURA DANIELA PACHON CUAN** \
-## **INGENERIA DE SISTEMAS**\
-! [mi universidad] (https://images.app.goo.gl/r4PEubMuERcCF6r49)\
+# **LAURA DANIELA PACHON CUAN** 
+## **INGENERIA DE SISTEMAS**
+! [mi universidad] (https://images.app.goo.gl/r4PEubMuERcCF6r49)
+
+
 Estoy en septimo semestre de ingeria de sistemas en la Universidad Julio Garavito tenego el plan de estudio numero 14 la universidad nos brinda muchas ayudas para que nuestras dudas queden completamente solucionadas contamos con monitores, y una bibloteca para acceder a a diferentes libros para llenar y adquirir mas conocimiento y ser unos excelentes profesionales.
 
 Este semestre estoy cursando las siguientes materias:
