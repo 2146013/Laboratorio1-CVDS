@@ -27,42 +27,26 @@ Mis profesores son:
 
 *Codigo:*
 1. Java
-public class HolaMundo {
+```public class HolaMundo {
    public static void main(String[] args) {
      System.out.println("Hola, Mundo");
    }
-}
+}```
 2. Python
 `print "Hola, Mundo"`
 3. Ruby
 puts "Hola Mundo"
 4. JavaScript
 document.write('¡Hola, Mundo!');
-5. C
-#include 
-#include 
-
- int main(void)
- {
-  printf("Hola, mundo\n");
-  return EXIT_SUCCESS;
- }
-6. C++
+5. C++
 #include 
 
 main()
 {
 	std::cout << "hola, mundo.";
 }
-7. Bash
+6. Bash
 #!/bin/sh
  echo "Hola Mundo"
-8. Go
-package main
 
- import "fmt"
-
- func main() {
-	fmt.Printf("Hola, Mundo\n")
- }
 
