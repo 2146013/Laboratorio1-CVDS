@@ -1,3 +1,6 @@
+[Página web ECI](https://www.escuelaing.edu.co/es/)
+![alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVLDsequ9PeRFTjD3td3zkx-6LIPCuO8Rd5g&usqp=CAU)
+
 # **Kevin Garzón**
 ## *Estudiante* Ingenieria de sistemas
 
@@ -31,6 +34,5 @@ def hanoi(n, source, helper, target):
         hanoi(n - 1, helper, source, target)
 ```
 
-[Página web ECI](https://www.escuelaing.edu.co/es/)
-![alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVLDsequ9PeRFTjD3td3zkx-6LIPCuO8Rd5g&usqp=CAU)
+## Tutorial git
 ![alt](git.png)
