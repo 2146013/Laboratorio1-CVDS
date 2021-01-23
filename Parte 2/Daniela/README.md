@@ -27,11 +27,14 @@ Mis profesores son:
 
 *Codigo:*
 1. Java
-```public class HolaMundo {
+
+```
+public class HolaMundo {
    public static void main(String[] args) {
      System.out.println("Hola, Mundo");
    }
-}```
+}
+```
 2. Python
 `print "Hola, Mundo"`
 3. Ruby
