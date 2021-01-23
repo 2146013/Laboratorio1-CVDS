@@ -1,7 +1,8 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
 
-AUTORES:kevi y daniela
+AUTORES:daniela
+AUTORES2:kevin
 
 
 
