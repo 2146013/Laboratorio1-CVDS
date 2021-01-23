@@ -19,7 +19,8 @@ Las actividades que realizo a diario son:
 
 ### Aquí tenemos el algoritmo recursivo correspondiente a las torres de hanoi escrito en lenguaje python:
 
-`def hanoi(n, source, helper, target):
+```
+def hanoi(n, source, helper, target):
     if n > 0:
         # move tower of size n - 1 to helper:
         hanoi(n - 1, source, target, helper)
@@ -27,7 +28,8 @@ Las actividades que realizo a diario son:
         if source:
             target.append(source.pop())
         # move tower of size n-1 from helper to target
-        hanoi(n - 1, helper, source, target)`
+        hanoi(n - 1, helper, source, target)
+```
 
 [Página web ECI](https://www.escuelaing.edu.co/es/)
 ![alt](https://www.universidadesenbogota.com/wp-content/uploads/cache/images/logo-eci/logo-eci-2272543660.jpg)
