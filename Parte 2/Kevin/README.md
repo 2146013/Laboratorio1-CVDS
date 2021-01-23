@@ -21,7 +21,7 @@ Las actividades que realizo a diario son:
 * Paseo a mi mascota
 
 
-### Aquí tenemos el algoritmo recursivo correspondiente a las torres de hanoi escrito en lenguaje python:
+Aquí tenemos el algoritmo recursivo correspondiente a las torres de hanoi escrito en lenguaje python:
 
 ```python
 def hanoi(n, source, helper, target):
