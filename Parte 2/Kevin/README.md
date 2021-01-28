@@ -37,3 +37,4 @@ def hanoi(n, source, helper, target):
 
 ## Tutorial git
 ![alt](git.png)
+![alt](git2.png)
