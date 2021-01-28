@@ -65,4 +65,7 @@ main()
  echo "Hola Mundo"
  ```
 
+## PARTE TRES 
+![alt](prueba1.png)
+![alt](prueba2.png)
 
